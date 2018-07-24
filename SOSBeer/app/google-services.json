@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "145943871633",
+    "firebase_url": "https://sosbeer-fda2c.firebaseio.com",
+    "project_id": "sosbeer-fda2c",
+    "storage_bucket": "sosbeer-fda2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145943871633:android:dcf7cfc5bb3de92f",
+        "android_client_info": {
+          "package_name": "sosbeerdelivery.com.sosbeer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145943871633-itg1mb7tao18nop4bnfgfaqmoh4h5hvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sosbeerdelivery.com.sosbeer",
+            "certificate_hash": "fe9bfdcaba436f565e670a891427bbb4cded0c30"
+          }
+        },
+        {
+          "client_id": "145943871633-qmgfa9aonagudgpuup903fgcc2481c80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH_sYHtBkRXlSBOywOEmeeEuc0lK9iEDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145943871633-qmgfa9aonagudgpuup903fgcc2481c80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
